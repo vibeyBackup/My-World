@@ -10,7 +10,7 @@ function captureSelectedOption() {
   var audioElement = document.createElement("audio"); // Create audio element
 
   // Define the audio source for 1080p selection
-  audioElement.src = "./assets/music.mp3";
+  audioElement.src = "./assets/myLove.mp3";
   audioElement.autoplay = true;
   audioElement.loop = true;
   audioElement.volume = 0.5; // Adjust volume as needed
