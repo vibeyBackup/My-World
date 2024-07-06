@@ -54,7 +54,7 @@ function captureSelectedOption() {
 }
 
 function playMusic() {
-  var audio = new Audio("./assets/music.mp3");
+  var audio = new Audio("./assets/myLove.mp3");
   audio.loop = true;
   audio.play();
 }
